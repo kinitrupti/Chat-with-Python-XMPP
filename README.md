@@ -7,7 +7,8 @@
 
 #Note: You might face problem with xmpp if you are using third party python distribution like canopy,anaconda etc. instead of Ubuntu's default python. Check the proxy settings as well. Try with no proxy. Enable the checkbox for "Allowing less secure apps to access your account" in your gmail settings.
 
-After downloading the script,
+After downloading the script, make the required changes in the script like your username, password, friend's emailid etc.
+
 Run the script,
 - python chat.py
 
